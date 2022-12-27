@@ -2,7 +2,7 @@
 ## By VietNT3
 
 - Project link: https://github.com/Vietnt1987/ds_project1
-- Blog post link: [https://medium.com/@minhdhbkhn/homestay-price-at-seatle-investigation-405d61b0e37c](https://github.com/Vietnt1987/ds_project1/wiki/How-you-choose-home-stay-with-correct-price-when-traveling-in-Seattle-with-Airbnb-data%3F)
+- Blog post link: https://github.com/Vietnt1987/ds_project1/wiki/How-you-choose-home-stay-with-correct-price-when-traveling-in-Seattle-with-Airbnb-data%3F
 
 ## Libraries used:
     libraries required for project are in requirements.txt file.
