@@ -6,6 +6,9 @@
 
 ## Libraries used:
     libraries required for project are in requirements.txt file.
+    
+## Project motivation
+This project, i will be creating a blog post and Github repository to begin building a data science portfolio of my own. 
 
 ## Installation:
     - install libraries by command line: pip install -r requirements.txt
